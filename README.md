@@ -1,2 +1,6 @@
 # awesome-rust
-rust资源汇总
+
+## 开始
+
+- [Rust官网](https://www.rust-lang.org/)
+- [crates](https://crates.io/)
